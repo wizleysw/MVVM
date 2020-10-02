@@ -6,7 +6,7 @@ This is example of MVVM pattern in Android using kotlin.
 
 Dev details are written in Korean. 
 
-https://bughunting.kr/dev/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%97%90-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-MVP-MVVM-%ED%8C%A8%ED%84%B4/
+https://bughunting.kr/android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%97%90-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-MVP-MVVM-%ED%8C%A8%ED%84%B4/
 
 ## What is MVP Pattern ??
 
