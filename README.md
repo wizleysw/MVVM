@@ -112,6 +112,7 @@ class UserViewModel(private val userRepository: UserRepository): ViewModel(){
 ## Pros and Cons
 
 pros : UI and business logic is seperated
+
 cons : if view model is huge, more memory is consumed
 
 
